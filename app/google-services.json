@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "980583815761",
+    "firebase_url": "https://ekvira-foundation.firebaseio.com",
+    "project_id": "ekvira-foundation",
+    "storage_bucket": "ekvira-foundation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980583815761:android:6a9a9b5b4e512230dd7670",
+        "android_client_info": {
+          "package_name": "com.avcoe.ekvira.ekvirafoundation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980583815761-bn7aipu96f7s9sfi8l9scj4566dtob22.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avcoe.ekvira.ekvirafoundation",
+            "certificate_hash": "fe37ffaa9d41e112e5592f8b04c597cf086f2524"
+          }
+        },
+        {
+          "client_id": "980583815761-qaql12e38m7b1tlb35gkossr23aschtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYwPPssCnI73Z9cf__LJqSlZBDD0RM8jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980583815761-qaql12e38m7b1tlb35gkossr23aschtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
